@@ -1,0 +1,22 @@
+Websites work by delivering content stored on web servers to web browsers, where it's rendered and displayed for users. Here's a simplified overview:
+
+1. **Request and Response:**
+   - When a user wants to access a website, they enter the website's address (URL) into a web browser.
+   - The web browser sends a request to the web server hosting the website, asking for the content.
+   - The web server processes the request and sends back the requested content, typically in the form of HTML, CSS, and JavaScript files.
+
+2. **HTML Document:**
+   - HTML (HyperText Markup Language) documents contain text and specific tags enclosed in '< >', which provide instructions for configuring the web page.
+   - Developers write HTML code using text editors, save it with the '.html' or '.htm' extension, and upload it to web servers.
+
+3. **Rendering Process:**
+   - The web browser receives the HTML document and parses it, converting raw bytes into characters, tokens, and nodes organized into a tree-like structure called the DOM (Document Object Model).
+   - Once the DOM tree is constructed, the browser renders each node, displaying text, images, buttons, and other elements on the screen in a visually appealing format.
+   - CSS (Cascading Style Sheets) is used to style the HTML elements, while JavaScript adds interactivity and dynamic behavior to the web page.
+
+4. **Web Browser Functionality:**
+   - Web browsers handle parsing and rendering of HTML documents, converting them into human-readable web pages.
+   - Browsers also manage interactions with web servers, sending requests for content and handling responses.
+   - The browser's rendering engine interprets HTML, CSS, and JavaScript code to display web pages correctly.
+
+Overall, web browsers play a crucial role in fetching, parsing, and rendering HTML content, making it accessible and visually appealing to users. While browsers handle these tasks behind the scenes, understanding HTML is essential for creating and structuring web pages effectively.
