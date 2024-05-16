@@ -1,0 +1,15 @@
+HTML (HyperText Markup Language) is the backbone of web pages, created by Tim Berners-Lee in 1991. It structures content on the web, defining elements like headings, paragraphs, links, and images. In essence, HTML is like the skeleton of a website, providing instructions to web browsers on how to display text, images, videos, and other elements.
+
+Key points about HTML:
+
+1. **Structure of Web Pages:** HTML defines the basic layout of web pages, using tags like <head>, <title>, <body>, <h1> for headings, <p> for paragraphs, <a> for links, and <img> for images.
+
+2. **Platform Independence:** Web pages written in HTML look the same across different browsers and operating systems, ensuring consistency in display.
+
+3. **Integration with Other Technologies:** HTML can be combined with CSS (Cascading Style Sheets) for styling and JavaScript for interactivity, enabling the creation of dynamic and visually appealing web pages.
+
+4. **Evolution of HTML:** HTML has evolved over the years, with HTML5 being the latest and most widely used version. HTML5 introduced new features like native support for multimedia elements, semantic tags for improved page structure, and enhanced forms for better user interaction.
+
+The term "HyperText Markup Language" combines "hypertext," which refers to linking text with other documents, and "markup language," which denotes a language using specific tags to format content.
+
+HTML's history dates back to the early days of the World Wide Web, with continuous development leading to standardized versions like HTML 4.0 and HTML5, which remains the most stable version today.
